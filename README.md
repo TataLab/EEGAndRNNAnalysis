@@ -1,5 +1,4 @@
-# Human EEG and recurrent neural networks exhibit common temporal
-dynamics during speech recognition
+# Human EEG and recurrent neural networks exhibit common temporal dynamics during speech recognition
 
 Analysis code for the paper Human EEG and recurrent neural networks exhibit common temporal dynamics during speech recognition.
 
