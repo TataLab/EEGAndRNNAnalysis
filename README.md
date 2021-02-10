@@ -1,4 +1,10 @@
-# Instructions for running the code
+# Human EEG and recurrent neural networks exhibit common temporal
+dynamics during speech recognition
+
+Analysis code for the paper Human EEG and recurrent neural networks exhibit common temporal dynamics during speech recognition.
+
+
+## Instructions for running the code
 
 The matlab scripts can be run in the order shown below. Paths in each script must be updated to your local system paths. 
 
