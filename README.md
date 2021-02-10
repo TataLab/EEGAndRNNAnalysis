@@ -1,4 +1,4 @@
-#Instructions for running the code
+# Instructions for running the code
 
 The matlab scripts can be run in the order shown below. Paths in each script must be updated to your local system paths. 
 
